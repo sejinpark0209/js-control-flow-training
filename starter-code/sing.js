@@ -1,1 +1,1 @@
-console.log("sing.js loaded");
+console.log("sing.js is loaded");

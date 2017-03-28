@@ -1,1 +1,1 @@
-console.log("security_questions.js loaded");
+console.log("security_questions.js is loaded");
